@@ -3,8 +3,4 @@ hello
 cambio 1
 cambio 2
 cambio 3
-<<<<<<< HEAD
-cambio local
-=======
 cambio remoto
->>>>>>> 912bb673a0d1c3ce7a76cdccb7e47653b418d018
